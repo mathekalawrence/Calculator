@@ -10,7 +10,7 @@ difference_result = num1 - num2
 product_result = num1 * num2
 division_result = num2 / num1
 
-#Output of the operations
+#Output of the operations::
 print(f"Results of the two values:..")
 print(f"Sum: {sum_result}")
 print(f"Difference: {difference_result}")
