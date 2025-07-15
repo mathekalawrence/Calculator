@@ -9,6 +9,7 @@ sum_result=num2+num1
 difference_result = num1 - num2
 product_result = num1 * num2
 division_result = num2 / num1
+other_output = num2*56-num1
 
 #Output of the operations:
 print(f"Results of the two values:..")
@@ -16,3 +17,4 @@ print(f"Sum: {sum_result}")
 print(f"Difference: {difference_result}")
 print(f"Product: {product_result}")
 print(f"Quotient/ Division: {division_result}")
+
